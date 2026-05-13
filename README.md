@@ -16,7 +16,6 @@ My **machine learning research interests** span learning mechanics, mechanistic 
 *   **Concepts:** `A/B Testing`, `State Space Models`, `Causal Inference`, `Neural Decoding`, `OOD Generalization`
 
 ### 🌍 Let's Connect!
-*   🔗 [Personal Website & Portfolio](https://melina-jingting.github.io)
 *   👔 [LinkedIn](https://linkedin.com/in/melina-laimon)
 *   📧 [Email Me](mailto:melinajingting@gmail.com)
 
